@@ -1,0 +1,8 @@
+  // Basic configurations object 
+  
+  import dotenv from 'dotenv';
+  dotenv.config();
+
+  module.exports = {
+   
+  };
